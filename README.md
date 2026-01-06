@@ -1,5 +1,5 @@
 Yeah my python journey 
-I have used a few books from the repo free-programming-books pretty cool repo for anyone into programming
+I have used a few books from the repo "free-programming-books", pretty cool repo for anyone into programming
 
 Providing links here -
 
